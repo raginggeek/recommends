@@ -128,6 +128,7 @@ Links to follow soon.
 * penguinz0 - media reviews, weird stuff online, and strange stories.
 
  ## Woodworking
- * (Paul Sellers)[https://www.youtube.com/channel/UCc3EpWncNq5QL0QhwUNQb7w] - Soothing woodworking, excellent make a workbench series
- * (Woodworking for Mere Mortals)[https://www.youtube.com/channel/UCBB7sYb14uBtk8UqSQYc9-w] - Beginner woodworkers tutorials.
- * (Matthew Cremora)[https://www.youtube.com/channel/UCDpL0v-Ifie7u05lbfO3zJQ] - Fine woodworking starting with a tree.
+ * [Paul Sellers](https://www.youtube.com/channel/UCc3EpWncNq5QL0QhwUNQb7w) - Soothing woodworking, excellent make a workbench series
+ * [Woodworking for Mere Mortals](https://www.youtube.com/channel/UCBB7sYb14uBtk8UqSQYc9-w) - Beginner woodworkers tutorials.
+ * [Matthew Cremora](https://www.youtube.com/channel/UCDpL0v-Ifie7u05lbfO3zJQ) - Fine woodworking starting with a tree.
+ 
