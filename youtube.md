@@ -130,4 +130,9 @@ Links to follow soon.
  ## Woodworking
  * [Paul Sellers](https://www.youtube.com/channel/UCc3EpWncNq5QL0QhwUNQb7w) - Soothing woodworking, excellent make a workbench series
  * [Woodworking for Mere Mortals](https://www.youtube.com/channel/UCBB7sYb14uBtk8UqSQYc9-w) - Beginner woodworkers tutorials.
+<<<<<<< HEAD
  * [Matthew Cremora](https://www.youtube.com/channel/UCDpL0v-Ifie7u05lbfO3zJQ) - Fine woodworking starting with a tree.
+=======
+ * [Matthew Cremora](https://www.youtube.com/channel/UCDpL0v-Ifie7u05lbfO3zJQ) - Fine woodworking starting with a tree.
+ 
+>>>>>>> 5315b9c2cd7fd9830f6d060a5705bda921d4efcb
