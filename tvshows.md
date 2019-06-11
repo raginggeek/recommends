@@ -1,4 +1,4 @@
-# A Curated List of Youtube Channels to consume
+# A Curated List of Television shows to consume
 
 ## Animated
 #### American Dad! 
