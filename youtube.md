@@ -41,7 +41,10 @@ Links to follow soon.
 * Playstation Access - Top X Lists of playstation games.
 * PSVR Without Parole - reviews and first looks at PS VR titles
 * videogamedunkey - humorous videos about video games
-* 
+* [MathasGames](https://www.youtube.com/channel/UCOHBVUV8aDg4tQiHnUqi_QA) - Story based Let's Play of Kenshi is very entertaining and well edited.
+* [Silvarret](https://www.youtube.com/channel/UCkSWAX1wZBnWQyRHWn17W0w) - Parkitect and Planet Coaster tutorials / Let's Plays
+* [captnduck](https://www.youtube.com/channel/UCssT8Jjw3htnpouaCh88N5Q) - Dwarf Fortress tutorial master, other roguelikes and Paradox Games playthroughs.
+* [Pete Complete](https://www.youtube.com/channel/UC0Xe2bvq_2uucE2IRALSR_Q) - Rimworld Ice Sheet Challenge Let's Play
 
 ## Movies
 * CinemaSins - reviewing movies based on overused tropes or shortcuts in storytelling
@@ -125,4 +128,8 @@ Links to follow soon.
 * AfterPrisonShow - stories of what life is like behind bars, as well as ex-convicts sharing their stories and struggles of staying out of trouble.
 * penguinz0 - media reviews, weird stuff online, and strange stories.
 
+ ## Woodworking
+ * [Paul Sellers](https://www.youtube.com/channel/UCc3EpWncNq5QL0QhwUNQb7w) - Soothing woodworking, excellent make a workbench series
+ * [Woodworking for Mere Mortals](https://www.youtube.com/channel/UCBB7sYb14uBtk8UqSQYc9-w) - Beginner woodworkers tutorials.
+ * [Matthew Cremora](https://www.youtube.com/channel/UCDpL0v-Ifie7u05lbfO3zJQ) - Fine woodworking starting with a tree.
  
