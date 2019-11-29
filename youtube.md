@@ -1,7 +1,9 @@
 # A Curated List of Youtube Channels to consume
+
 Links to follow soon.
 
 ## Makers
+
 * Adam Savage's Tested - Props, Costumes, Gadgets
 * AWE me - Forging/Smithing
 * AvE - Electronics builds, Tool Teardowns, Milling and Metalcraft with an interesting personality
@@ -11,12 +13,14 @@ Links to follow soon.
 * the Hacksmith - maker making movie and game props real.
 
 ## Computer Sciences
+
 * Ben Eater - Electronic Engineering of Computing Technology
 * danooct1 - a review of computer viruses by deploying them on virtual hardware
 * Fun Fun Function - Youtubing about Programming concepts
 * Retro Game Mechanics Explained - explaination of various 8 bit game concepts
 
 ## Culinary
+
 * Barry Lewis - Gadget testing and Recipes
 * Cocktail Chemistry - mixology on interesting drinks.
 * CrazyRussianHacker - gadget testing(though light on critique of any of the products)
@@ -25,6 +29,7 @@ Links to follow soon.
 * You Suck At Cooking - humorous cooking videos.
 
 ## Gaming
+
 * Ahoy - Gaming and Weapons Retrospectives
 * Beaglerush - X-Com playthroughs
 * Cinemassacre - Angry Video Game Nerd, angry takes on bad games of yesterday.
@@ -47,6 +52,7 @@ Links to follow soon.
 * [Pete Complete](https://www.youtube.com/channel/UC0Xe2bvq_2uucE2IRALSR_Q) - Rimworld Ice Sheet Challenge Let's Play
 
 ## Movies
+
 * CinemaSins - reviewing movies based on overused tropes or shortcuts in storytelling
 * Cinemassacre - Rental Review - panel reviews of older movie classics.
 * Jeremy Jahns - hot take movie reviews
@@ -54,6 +60,7 @@ Links to follow soon.
 * ScreenRant - movie related content, Pitch Meeting is very hot.
 
 ## Humor
+
 * Casually Explained - self-deprecating humorous  discussion on everyday topics
 * College Humor - massive comedy skits channel
 * Jaboody Dubs - humorous dubs of infomercials
@@ -62,26 +69,32 @@ Links to follow soon.
 * Ryan George - The guy from Pitch Meetings on Screen Rant doing his own humorous skits
 
 ## Locksport
+
 * Bosnianbill - lockpick tool and lock reviews/picking
 * lockpicking lawyer - lock reviews and picking
 
 ## General Reviews
+
 * Mike Jeavons - reviews informercial products, and does a week on various diets.
 
 ## History
+
 * OverSimplified - history simplified
 * Sam O'Nella Academy - Weird History
 * Townsends - culinary topics of the colonial times.
 
 ## Roleplaying
+
 * Complex Action - humorously described rules of Shadowrun(largely 5th Edition)
 * JoCat - Crap Guide to D&D
 * Mann Shorts - videos on fictitious versions of D&D
 
 ## Puzzles
+
 * Chris Ramsey - Puzzle solving and Magic.
 
 ## Science
+
 * Cody's Lab - backyard chemistry in the hills
 * ElectroBoom - a humorous display of Electrical Engineering and the science of Electricity.
 * Engineerguy - explainations of engineering of everyday items.
@@ -91,36 +104,41 @@ Links to follow soon.
 * Practical Engineering - videos on mechanical engineering
 
 ## Technology
+
 * Linus Tech Tips - reviews of computing hardware and builds.
 
 ## Professionals React
+
 * Doctor Mike - real medical doctor reviews medical drama's and provides some behind the scenes thought processes of a real doctor.
 * LegalEagle - Lawyer reacting to law drama's and providing details about how court proceedings work in real life.
-* 
 
-## Automotive 
+## Automotive
+
 * RegularCars - reviews of regular cars.
 
 ## Cartoons
+
 * Domics - cartoon vlogging about life experiences
 * ExplosmEntertainment - Cyanide and Happiness Cartoons
 
-
 ## Challenge Entertainment
+
 * FBE - Fine Brothers Entertainment (for their Try not to series)
 * REACT - (try no to series)
 * First We Feast  (for their Hot Ones series)
 * skippy62able - L.A. Beast, food challenges
 
 ## Firearms
+
 * Forgotten Weapons - discussion and teardown of old weapons/prototypes
 
-
 ## Lego
+
 * Keshen8 - Lego stop animations
 * Lego Gun Instructions - how to build various gun replicas in lego.
 
 ## Esoteric Information
+
 * Ashens - Classic Gaming, Food reviews, Box reviews
 * The Modern Rogue - "prepper" style information for various situations in life.
 * Captain Disillusion - photoshop, video technology, deconstruction of viral video trends
@@ -128,8 +146,8 @@ Links to follow soon.
 * AfterPrisonShow - stories of what life is like behind bars, as well as ex-convicts sharing their stories and struggles of staying out of trouble.
 * penguinz0 - media reviews, weird stuff online, and strange stories.
 
- ## Woodworking
- * [Paul Sellers](https://www.youtube.com/channel/UCc3EpWncNq5QL0QhwUNQb7w) - Soothing woodworking, excellent make a workbench series
- * [Woodworking for Mere Mortals](https://www.youtube.com/channel/UCBB7sYb14uBtk8UqSQYc9-w) - Beginner woodworkers tutorials.
- * [Matthew Cremora](https://www.youtube.com/channel/UCDpL0v-Ifie7u05lbfO3zJQ) - Fine woodworking starting with a tree.
- 
+## Woodworking
+
+* [Paul Sellers](https://www.youtube.com/channel/UCc3EpWncNq5QL0QhwUNQb7w) - Soothing woodworking, excellent make a workbench series
+* [Woodworking for Mere Mortals](https://www.youtube.com/channel/UCBB7sYb14uBtk8UqSQYc9-w) - Beginner woodworkers tutorials.
+* [Matthew Cremora](https://www.youtube.com/channel/UCDpL0v-Ifie7u05lbfO3zJQ) - Fine woodworking starting with a tree.
